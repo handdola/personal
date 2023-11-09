@@ -15,7 +15,7 @@ User data is not shared with third parties except as necessary to provide the pl
 We are committed to protecting your data and implement appropriate security measures to prevent unauthorized access, disclosure, alteration, or destruction.
 
 #User Rights:
-Users can request to access or delete their personal data by contacting the plugin administrator at [handdoa@gmail.com].
+Users can request to access or delete their personal data by contacting the plugin administrator at [handdola@gmail.com].
 
 #Consent:
 By using the Seoul Metro Subway Assistant, you consent to the collection and use of your data as described in this Privacy Policy.
@@ -24,4 +24,4 @@ By using the Seoul Metro Subway Assistant, you consent to the collection and use
 We may update this Privacy Policy from time to time. We will notify users of any changes by posting the new Privacy Policy on this page.
 
 #Contact Information:
-For any questions about this Privacy Policy, please contact us at handdoa@gmail.com
+For any questions about this Privacy Policy, please contact us at handdola@gmail.com
